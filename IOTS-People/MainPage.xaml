@@ -56,6 +56,62 @@
                     </ListBox.ItemTemplate>
                 </ListBox>
             </controls:PanoramaItem>
+            <controls:PanoramaItem Header="{Binding Names[2].PersonName}">
+                <ListBox Margin="0,0,-12,0" ItemsSource="{Binding Tasks[2]}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="0,0,0,17">
+                                <StackPanel Width="311">
+                                    <TextBlock Text="{Binding TaskName}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
+                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </controls:PanoramaItem>
+            <controls:PanoramaItem Header="{Binding Names[3].PersonName}">
+                <ListBox Margin="0,0,-12,0" ItemsSource="{Binding Tasks[3]}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="0,0,0,17">
+                                <StackPanel Width="311">
+                                    <TextBlock Text="{Binding TaskName}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
+                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </controls:PanoramaItem>
+            <controls:PanoramaItem Header="{Binding Names[4].PersonName}">
+                <ListBox Margin="0,0,-12,0" ItemsSource="{Binding Tasks[4]}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="0,0,0,17">
+                                <StackPanel Width="311">
+                                    <TextBlock Text="{Binding TaskName}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
+                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </controls:PanoramaItem>
+            <controls:PanoramaItem Header="{Binding Names[5].PersonName}">
+                <ListBox Margin="0,0,-12,0" ItemsSource="{Binding Tasks[5]}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="0,0,0,17">
+                                <StackPanel Width="311">
+                                    <TextBlock Text="{Binding TaskName}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
+                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </controls:PanoramaItem>
         </controls:Panorama>
         <HyperlinkButton Content="Add Task" Height="101" HorizontalAlignment="Left" Margin="48,687,0,0" Name="AddTaskBtn" VerticalAlignment="Top" Width="378" NavigateUri="/New Task.xaml" />
     </Grid>

@@ -48,25 +48,28 @@ namespace IOTS_People
         {
             //тут подгружать данные с isolated storage
 
-            if (IsolatedStorageSettings.ApplicationSettings.Contains("Data2"))
+            if (IsolatedStorageSettings.ApplicationSettings.Contains("Data3"))
             {
-                var profiles = (List<Profile>)IsolatedStorageSettings.ApplicationSettings["Data2"];
+                var profiles = (List<Profile>)IsolatedStorageSettings.ApplicationSettings["Data3"];
                 var savedModel = MainViewModel.CreateViewModel(profiles);
                 this.Names = savedModel.Names;
                 this.Tasks = savedModel.Tasks;
             }
             else
             {
-                var items = new ObservableCollection<ItemViewModel>();
-                items.Add(new ItemViewModel() {TaskName = "First task", TaskDetails = "--------"});
-                items.Add(new ItemViewModel() {TaskName = "Second task", TaskDetails = "-------"});
-                Tasks.Add(items);
-                var items2 = new ObservableCollection<ItemViewModel>();
-                items2.Add(new ItemViewModel() {TaskName = "Other first task", TaskDetails = "-----"});
-                items2.Add(new ItemViewModel() {TaskName = "Other second task", TaskDetails = "-----"});
-                Tasks.Add(items2);
-                Names.Add(new ItemNameViewModel() {PersonName = "Женя"});
-                Names.Add(new ItemNameViewModel() {PersonName = "Еще кто-то"});
+                Names.Add(new ItemNameViewModel() {PersonName = "Андрей"});
+                Names.Add(new ItemNameViewModel() {PersonName = "Витя"});
+                Names.Add(new ItemNameViewModel() { PersonName = "Дима" });
+                Names.Add(new ItemNameViewModel() { PersonName = "Женя" });
+                Names.Add(new ItemNameViewModel() { PersonName = "Коля" });
+                Names.Add(new ItemNameViewModel() { PersonName = "Куня" });
+                foreach (var name in Names)
+                {
+                    var items = new ObservableCollection<ItemViewModel>();
+                    items.Add(new ItemViewModel() { TaskName = "First task", TaskDetails = "--------" });
+                    Tasks.Add(items);
+                }
+
             }
             this.IsDataLoaded = true;
         }
@@ -76,8 +79,8 @@ namespace IOTS_People
             //making Profile objects, that will be saved in AppStorage
 
             List<Profile> profiles = Profile.CreateListOfProfiles(this);
-            IsolatedStorageSettings.ApplicationSettings.Remove("Data2");
-            IsolatedStorageSettings.ApplicationSettings.Add("Data2", profiles);
+            IsolatedStorageSettings.ApplicationSettings.Remove("Data3");
+            IsolatedStorageSettings.ApplicationSettings.Add("Data3", profiles);
             IsolatedStorageSettings.ApplicationSettings.Save();
         }
 
