@@ -1,0 +1,207 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:App.xaml" caret="0" fromTop="0" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="627" fromTop="10" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:ItemNameViewModel.cs" caret="0" fromTop="0" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Task.cs" caret="299" fromTop="11" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:ItemViewModel.cs" caret="204" fromTop="0" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="1422" fromTop="5" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1122" fromTop="26" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="1322" fromTop="28" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:App.xaml.cs" caret="3347" fromTop="23" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="0" fromTop="0" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="2803" fromTop="30" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="0" fromTop="0" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:App.xaml.cs" caret="4415" fromTop="11" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="2267" fromTop="19" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="0" fromTop="0" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="694" fromTop="18" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Task.cs" caret="356" fromTop="15" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Task.cs" caret="299" fromTop="11" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="404" fromTop="12" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="2891" fromTop="15" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="3104" fromTop="22" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="859" fromTop="14" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="1270" fromTop="21" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="627" fromTop="9" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="1422" fromTop="16" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="1422" fromTop="22" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="1422" fromTop="26" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="1422" fromTop="13" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="1422" fromTop="5" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="3548" fromTop="22" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="1875" fromTop="12" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="2707" fromTop="13" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="2708" fromTop="24" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1122" fromTop="26" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="1252" fromTop="23" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="1033" fromTop="20" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="949" fromTop="14" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="4525" fromTop="22" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:App.xaml.cs" caret="3347" fromTop="23" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="1686" fromTop="18" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="3093" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ApplicationTitle" priority="0" />
+      <Item value="ToCreateAPage" priority="0" />
+      <Item value="App`0" priority="5" />
+      <Item value="new" priority="17" />
+      <Item value="ItemViewModel" priority="0" />
+      <Item value="LineOne" priority="0" />
+      <Item value="LineTwo" priority="0" />
+      <Item value="LineThree" priority="0" />
+      <Item value="TaskDetails" priority="1" />
+      <Item value="DateTime`0" priority="2" />
+      <Item value="startDate" priority="0" />
+      <Item value="public" priority="4" />
+      <Item value="SerializibleItem`0" priority="0" />
+      <Item value="ObservableCollection" priority="5" />
+      <Item value="ItemViewModel`0" priority="5" />
+      <Item value="var" priority="11" />
+      <Item value="is" priority="0" />
+      <Item value="Items" priority="0" />
+      <Item value="Profiles" priority="0" />
+      <Item value="items" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="Names" priority="5" />
+      <Item value="ItemNameViewModel" priority="2" />
+      <Item value="PersonName" priority="3" />
+      <Item value="this" priority="2" />
+      <Item value="ObservableCollection&lt;ItemNameViewModel&gt;" priority="0" />
+      <Item value="abstract" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="MainViewModel`0" priority="11" />
+      <Item value="ISerializeViewModel`0" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="System" priority="2" />
+      <Item value="Xml" priority="3" />
+      <Item value="Serialization" priority="3" />
+      <Item value="XmlAnyElementAttribute`0" priority="0" />
+      <Item value="result" priority="2" />
+      <Item value="MainViewModel" priority="1" />
+      <Item value="XmlViewModelStore`0" priority="0" />
+      <Item value="store" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="prop" priority="3" />
+      <Item value="ListBox`0" priority="0" />
+      <Item value="Task`0" priority="2" />
+      <Item value="String`0" priority="1" />
+      <Item value="Guid`0" priority="1" />
+      <Item value="List" priority="4" />
+      <Item value="List&lt;Profile&gt;" priority="0" />
+      <Item value="foreach" priority="3" />
+      <Item value="Tasks" priority="2" />
+      <Item value="Profile`0" priority="5" />
+      <Item value="Profile" priority="0" />
+      <Item value="Id" priority="1" />
+      <Item value="index" priority="1" />
+      <Item value="Guid" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="taskList" priority="0" />
+      <Item value="List&lt;Task&gt;" priority="0" />
+      <Item value="Task" priority="0" />
+      <Item value="Description" priority="0" />
+      <Item value="task" priority="3" />
+      <Item value="tasks" priority="0" />
+      <Item value="taskModels" priority="0" />
+      <Item value="profiles" priority="4" />
+      <Item value="profile" priority="2" />
+      <Item value="viewModel" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="static" priority="1" />
+      <Item value="ContextStaticAttribute`0" priority="0" />
+      <Item value="TaskName" priority="0" />
+      <Item value="tasklistVM" priority="0" />
+      <Item value="taskVM" priority="0" />
+      <Item value="taskListsVM" priority="2" />
+      <Item value="taskListVM" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="namesVM" priority="3" />
+      <Item value="nameVM" priority="0" />
+      <Item value="IsDataLoaded" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="model" priority="0" />
+      <Item value="savedModel" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="modelToSave" priority="0" />
+      <Item value="IsolatedStorageSettings`0" priority="0" />
+      <Item value="false" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IOTS_People.App">
+      <Item value="ViewModel" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IOTS_People.MainViewModel">
+      <Item value="Items" priority="0" />
+      <Item value="Names" priority="2" />
+      <Item value="Tasks" priority="2" />
+      <Item value="SaveData`0" priority="1" />
+      <Item value="IsDataLoaded" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Add`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Date" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IOTS_People.XmlViewModelStore">
+      <Item value="SaveViewModel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IOTS_People.ViewModels.ItemNameViewModel">
+      <Item value="PersonName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IOTS_People.ItemViewModel">
+      <Item value="TaskDetails" priority="0" />
+      <Item value="TaskName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IOTS_People.Profile">
+      <Item value="CreateFromViewModel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IOTS_People.Profile">
+      <Item value="Tasks" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IOTS_People.Task">
+      <Item value="Description" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IOTS_People.MainViewModel">
+      <Item value="CreateViewModel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.IsolatedStorage.IsolatedStorageSettings">
+      <Item value="ApplicationSettings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.IsolatedStorage.IsolatedStorageSettings">
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
