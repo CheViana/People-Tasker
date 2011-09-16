@@ -22,19 +22,44 @@ namespace IOTS_People
             DataContext = App.ViewModel;
             this.Loaded += new RoutedEventHandler(MainPage_Loaded);
         }
+
+        private string checkedName;
         private void MainPage_Loaded(object sender, RoutedEventArgs e)
         {
             if (!App.ViewModel.IsDataLoaded)
             {
                 App.ViewModel.LoadData();
             }
+            checkedName = String.Empty;
         }
         protected override void OnNavigatingFrom(NavigatingCancelEventArgs e)
         {
             base.OnNavigatingFrom(e);
-            App.ViewModel.Tasks[0].Add(new ItemViewModel() { TaskName = "Other", TaskDetails = "Other" });
-            
+            int index;
+            switch (checkedName)
+            {
+                case "Женя":
+                    index = 0;
+                    break;
+                case "Еще кто-то":
+                    index = 1;
+                    break;
+                default:
+                    index = App.ViewModel.Tasks.Count;
+                    break;
 
+            }
+            if (index < App.ViewModel.Tasks.Count)
+            {
+                App.ViewModel.Tasks[index].Add(new ItemViewModel() { TaskName = EnterNameBox.Text, TaskDetails = EnterdetailsBox.Text });
+            }
+
+        }
+
+        private void CheckBox_Checked(object sender, RoutedEventArgs e)
+        {
+            CheckBox box = (CheckBox) sender;
+            checkedName =(string) box.Content;
         }
 
     }

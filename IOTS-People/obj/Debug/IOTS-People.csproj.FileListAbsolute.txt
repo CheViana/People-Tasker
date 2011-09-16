@@ -30,3 +30,19 @@ D:\visual studio 2010\Projects\IOTS-People back up\IOTS-People\Bin\Debug\Microso
 D:\visual studio 2010\Projects\IOTS-People back up\IOTS-People\Bin\Debug\Microsoft.Phone.Controls.xml
 D:\visual studio 2010\Projects\IOTS-People back up\IOTS-People\obj\Debug\IOTS-People.pdb
 D:\visual studio 2010\Projects\IOTS-People back up\IOTS-People\obj\Debug\XapCacheFile.xml
+D:\git\IOTS-People\IOTS-People\Bin\Debug\ApplicationIcon.png
+D:\git\IOTS-People\IOTS-People\Bin\Debug\Background.png
+D:\git\IOTS-People\IOTS-People\Bin\Debug\IOTS-People.dll
+D:\git\IOTS-People\IOTS-People\Bin\Debug\IOTS-People.pdb
+D:\git\IOTS-People\IOTS-People\Bin\Debug\AppManifest.xaml
+D:\git\IOTS-People\IOTS-People\Bin\Debug\IOTS_People.xap
+D:\git\IOTS-People\IOTS-People\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\git\IOTS-People\IOTS-People\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\git\IOTS-People\IOTS-People\obj\Debug\ResolveAssemblyReference.cache
+D:\git\IOTS-People\IOTS-People\obj\Debug\App.g.i.cs
+D:\git\IOTS-People\IOTS-People\obj\Debug\MainPage.g.i.cs
+D:\git\IOTS-People\IOTS-People\obj\Debug\New Task.g.i.cs
+D:\git\IOTS-People\IOTS-People\obj\Debug\IOTS-People.g.resources
+D:\git\IOTS-People\IOTS-People\obj\Debug\IOTS-People.dll
+D:\git\IOTS-People\IOTS-People\obj\Debug\IOTS-People.pdb
+D:\git\IOTS-People\IOTS-People\obj\Debug\XapCacheFile.xml
