@@ -104,6 +104,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Resource Include="PanoramaBackground.png" />
+    <Resource Include="Images\46-Cool-and-Amazing-Windows-Phone-7-Wallpapers.jpg" />
+    <Resource Include="Images\Superman-Wallpaper-WP7-7.png" />
+    <Resource Include="backgroundAddTask.png" />
     <Content Include="SplashScreenImage.jpg" />
   </ItemGroup>
   <ItemGroup />

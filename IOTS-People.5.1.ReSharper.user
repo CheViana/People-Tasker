@@ -12,31 +12,19 @@
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:App.xaml" caret="0" fromTop="0" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:ItemViewModel.cs" caret="204" fromTop="0" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:App.xaml.cs" caret="4391" fromTop="10" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="6411" fromTop="20" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="0" fromTop="0" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="0" fromTop="0" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Task.cs" caret="341" fromTop="15" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="1076" fromTop="19" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="4638" fromTop="25" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:ItemNameViewModel.cs" caret="0" fromTop="0" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1400" fromTop="14" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="479" fromTop="9" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1694" fromTop="48" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="2716" fromTop="10" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="2363" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="1033" fromTop="20" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="949" fromTop="14" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:App.xaml.cs" caret="3347" fromTop="23" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="2680" fromTop="21" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="697" fromTop="21" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="940" fromTop="13" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1210" fromTop="23" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1662" fromTop="21" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1861" fromTop="24" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:App.xaml.cs" caret="4416" fromTop="12" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="7195" fromTop="32" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="3606" fromTop="20" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="4541" fromTop="22" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="5476" fromTop="21" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="6411" fromTop="20" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="4568" fromTop="22" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="5518" fromTop="21" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="6468" fromTop="20" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="1686" fromTop="16" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="3052" fromTop="21" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="2460" fromTop="20" />
@@ -52,6 +40,18 @@
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="1076" fromTop="19" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="4430" fromTop="19" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1425" fromTop="14" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="715" fromTop="9" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="0" fromTop="0" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="3094" fromTop="24" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="4044" fromTop="26" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="4993" fromTop="28" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="5944" fromTop="27" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="7309" fromTop="19" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1808" fromTop="23" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="2590" fromTop="9" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="2716" fromTop="10" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="1493" fromTop="15" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="1859" fromTop="20" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

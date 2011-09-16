@@ -26,14 +26,13 @@
  
             <!--Panorama item one-->
             <controls:PanoramaItem Header="{Binding Names[0].PersonName}">
-                
                 <ListBox Margin="0,0,-12,0" ItemsSource="{Binding Tasks[0]}">
                     <ListBox.ItemTemplate>
                         <DataTemplate>
                             <StackPanel Orientation="Horizontal" Margin="0,0,0,17">                                                             
                                 <StackPanel Width="311">
                                     <TextBlock Text="{Binding TaskName}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
-                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}" FontSize="30" />
                                  </StackPanel>
                             </StackPanel>
                         </DataTemplate>
@@ -49,7 +48,7 @@
                             <StackPanel Orientation="Horizontal" Margin="0,0,0,17">
                                <StackPanel Width="311">                                    
                                     <TextBlock Text="{Binding TaskName}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
-                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}" FontSize="30" />
                                 </StackPanel>
                             </StackPanel>
                         </DataTemplate>
@@ -63,7 +62,7 @@
                             <StackPanel Orientation="Horizontal" Margin="0,0,0,17">
                                 <StackPanel Width="311">
                                     <TextBlock Text="{Binding TaskName}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
-                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}" FontSize="30" />
                                 </StackPanel>
                             </StackPanel>
                         </DataTemplate>
@@ -77,7 +76,7 @@
                             <StackPanel Orientation="Horizontal" Margin="0,0,0,17">
                                 <StackPanel Width="311">
                                     <TextBlock Text="{Binding TaskName}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
-                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}" FontSize="30" />
                                 </StackPanel>
                             </StackPanel>
                         </DataTemplate>
@@ -91,7 +90,7 @@
                             <StackPanel Orientation="Horizontal" Margin="0,0,0,17">
                                 <StackPanel Width="311">
                                     <TextBlock Text="{Binding TaskName}" TextWrapping="Wrap" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
-                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}"/>
+                                    <TextBlock Text="{Binding TaskDetails}" TextWrapping="Wrap" Margin="12,-6,12,0" Style="{StaticResource PhoneTextSubtleStyle}" FontSize="30" />
                                 </StackPanel>
                             </StackPanel>
                         </DataTemplate>
@@ -113,6 +112,6 @@
                 </ListBox>
             </controls:PanoramaItem>
         </controls:Panorama>
-        <HyperlinkButton Content="Add Task" Height="101" HorizontalAlignment="Left" Margin="48,687,0,0" Name="AddTaskBtn" VerticalAlignment="Top" Width="378" NavigateUri="/New Task.xaml" />
+        <HyperlinkButton Content="Add Task" Height="101" HorizontalAlignment="Left" Margin="48,687,0,0" Name="AddTaskBtn" VerticalAlignment="Top" Width="378" NavigateUri="/New Task.xaml" FontSize="48" />
     </Grid>
 </phone:PhoneApplicationPage>

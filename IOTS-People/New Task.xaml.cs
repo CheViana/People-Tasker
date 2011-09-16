@@ -52,9 +52,9 @@ namespace IOTS_People
 
         }
 
-        private void CheckBox_Checked(object sender, RoutedEventArgs e)
+        private void RadioButton_Checked(object sender, RoutedEventArgs e)
         {
-            CheckBox box = (CheckBox) sender;
+            RadioButton box = (RadioButton)sender;
             checkedName =(string) box.Content;
         }
 
