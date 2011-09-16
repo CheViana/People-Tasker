@@ -16,7 +16,7 @@ namespace IOTS_People
 {
     public class Profile
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public String Name { get; set; }
         public List<Task> Tasks { get; set; }
 
@@ -29,10 +29,10 @@ namespace IOTS_People
                 List<Task> taskModels = new List<Task>();
                 foreach (var task in taskList)
                 {
-                    Task taskModel = new Task() { Description = task.TaskDetails, Id = new Guid(), Name = task.TaskName };
+                    Task taskModel = new Task() { Description = task.TaskDetails,  Name = task.TaskName };
                     taskModels.Add(taskModel);
                 }
-                Profile profile = new Profile() { Id = new Guid(), Name = viewModel.Names[index].PersonName, Tasks = taskModels };
+                Profile profile = new Profile() { Id = viewModel.Names[index].Id, Name = viewModel.Names[index].PersonName, Tasks = taskModels };
                 profiles.Add(profile);
             }
             return profiles;

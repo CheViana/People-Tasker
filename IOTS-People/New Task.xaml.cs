@@ -35,19 +35,15 @@ namespace IOTS_People
         protected override void OnNavigatingFrom(NavigatingCancelEventArgs e)
         {
             base.OnNavigatingFrom(e);
-            int index;
-            switch (checkedName)
+            int index = App.ViewModel.Tasks.Count;
+            MainViewModel model = (MainViewModel) DataContext;
+            for (int i = 0; i < model.Names.Count; i++)
             {
-                case "Женя":
-                    index = 0;
-                    break;
-                case "Еще кто-то":
-                    index = 1;
-                    break;
-                default:
-                    index = App.ViewModel.Tasks.Count;
-                    break;
-
+                var s = checkedName;
+                if (s == model.Names[i].PersonName)
+                {
+                    index = model.Names[i].Id;
+                }
             }
             if (index < App.ViewModel.Tasks.Count)
             {

@@ -13,7 +13,7 @@ namespace IOTS_People
 {
     public class Task
     {
-        public Guid Id { get; set; }
+       
         public String Name { get; set; }
         public String Description { get; set; }
     }

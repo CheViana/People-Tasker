@@ -15,6 +15,7 @@ namespace IOTS_People.ViewModels
     public class ItemNameViewModel : INotifyPropertyChanged
     {
         private string personName;
+        private int id;
         
         public string PersonName
         {
@@ -31,6 +32,20 @@ namespace IOTS_People.ViewModels
                 }
             }
         }
+
+        public int Id
+        {
+            get { return id; }
+            set
+            {
+                if (value != id)
+                {
+                    id = value;
+                    NotifyPropertyChanged("PersonId");
+                }
+            }
+        }
+
 
         public event PropertyChangedEventHandler PropertyChanged;
         private void NotifyPropertyChanged(String propertyName)

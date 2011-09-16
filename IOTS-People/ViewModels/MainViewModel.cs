@@ -57,12 +57,12 @@ namespace IOTS_People
             }
             else
             {
-                Names.Add(new ItemNameViewModel() {PersonName = "Андрей"});
-                Names.Add(new ItemNameViewModel() {PersonName = "Витя"});
-                Names.Add(new ItemNameViewModel() { PersonName = "Дима" });
-                Names.Add(new ItemNameViewModel() { PersonName = "Женя" });
-                Names.Add(new ItemNameViewModel() { PersonName = "Коля" });
-                Names.Add(new ItemNameViewModel() { PersonName = "Куня" });
+                Names.Add(new ItemNameViewModel() {PersonName = "Андрей", Id = 0});
+                Names.Add(new ItemNameViewModel() {PersonName = "Витя", Id = 1});
+                Names.Add(new ItemNameViewModel() { PersonName = "Дима", Id = 2 });
+                Names.Add(new ItemNameViewModel() { PersonName = "Женя", Id = 3 });
+                Names.Add(new ItemNameViewModel() { PersonName = "Коля", Id = 4 });
+                Names.Add(new ItemNameViewModel() { PersonName = "Куня", Id = 5 });
                 foreach (var name in Names)
                 {
                     var items = new ObservableCollection<ItemViewModel>();
@@ -109,8 +109,8 @@ namespace IOTS_People
                 }
                 taskListsVM.Add(taskListVM);
 
-                string name = profile.Name;
-                var nameVM = new ItemNameViewModel() { PersonName = name };
+                
+                var nameVM = new ItemNameViewModel() { PersonName = profile.Name, Id = profile.Id };
                 namesVM.Add(nameVM);
             }
             var model = new MainViewModel() {IsDataLoaded = false, Names = namesVM, Tasks = taskListsVM};
