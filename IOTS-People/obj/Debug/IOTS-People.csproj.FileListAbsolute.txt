@@ -46,3 +46,4 @@ D:\git\IOTS-People\IOTS-People\obj\Debug\IOTS-People.g.resources
 D:\git\IOTS-People\IOTS-People\obj\Debug\IOTS-People.dll
 D:\git\IOTS-People\IOTS-People\obj\Debug\IOTS-People.pdb
 D:\git\IOTS-People\IOTS-People\obj\Debug\XapCacheFile.xml
+D:\git\IOTS-People\IOTS-People\obj\Debug\DeletePage.g.i.cs

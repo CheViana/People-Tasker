@@ -12,6 +12,9 @@ using System.Windows.Shapes;
 
 namespace IOTS_People.ViewModels
 {
+    /// <summary>
+    /// Represents person's Id and Name to be used in data binding
+    /// </summary>
     public class ItemNameViewModel : INotifyPropertyChanged
     {
         private string personName;

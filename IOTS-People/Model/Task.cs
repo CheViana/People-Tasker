@@ -11,10 +11,15 @@ using System.Windows.Shapes;
 
 namespace IOTS_People
 {
+    /// <summary>
+    /// objects of this class are used to save and load data in this application.
+    /// Task have Name, description(=details) and Category (report or task)
+    /// </summary>
     public class Task
     {
        
         public String Name { get; set; }
         public String Description { get; set; }
+        public string Category { get; set; }
     }
 }

@@ -10,48 +10,50 @@
   <RecentFiles>
     <RecentFiles>
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:App.xaml" caret="0" fromTop="0" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:ItemViewModel.cs" caret="204" fromTop="0" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:App.xaml.cs" caret="4391" fromTop="10" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Task.cs" caret="341" fromTop="15" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="1076" fromTop="19" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="4638" fromTop="25" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Task.cs" caret="677" fromTop="22" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="509" fromTop="17" />
       <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:ItemNameViewModel.cs" caret="0" fromTop="0" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="479" fromTop="9" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1694" fromTop="48" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="2716" fromTop="10" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="2363" fromTop="0" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:ItemViewModel.cs" caret="0" fromTop="0" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:DeletePage.xaml" caret="6790" fromTop="14" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="6657" fromTop="12" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="4135" fromTop="14" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="4399" fromTop="15" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="1274" fromTop="16" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:DeletePage.xaml.cs" caret="2060" fromTop="25" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="3081" fromTop="27" />
     </RecentFiles>
     <RecentEdits>
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="4568" fromTop="22" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="5518" fromTop="21" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="6468" fromTop="20" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="1686" fromTop="16" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="3052" fromTop="21" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="2460" fromTop="20" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="2685" fromTop="24" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:ItemNameViewModel.cs" caret="470" fromTop="5" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:ItemNameViewModel.cs" caret="1108" fromTop="32" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:ItemNameViewModel.cs" caret="1086" fromTop="22" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="2412" fromTop="14" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1131" fromTop="1" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="2073" fromTop="21" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="460" fromTop="6" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Task.cs" caret="341" fromTop="15" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:Model/f:Profile.cs" caret="1076" fromTop="19" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="4430" fromTop="19" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1425" fromTop="14" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="715" fromTop="9" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="0" fromTop="0" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="3094" fromTop="24" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="4044" fromTop="26" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="4993" fromTop="28" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="5944" fromTop="27" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="7309" fromTop="19" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1808" fromTop="23" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="2590" fromTop="9" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="2716" fromTop="10" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="1493" fromTop="15" />
-      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="1859" fromTop="20" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:DeletePage.xaml" caret="1687" fromTop="19" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="2479" fromTop="6" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="3506" fromTop="21" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="4489" fromTop="21" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="5472" fromTop="27" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="6455" fromTop="27" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml" caret="7690" fromTop="27" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="526" fromTop="8" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="861" fromTop="16" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="756" fromTop="12" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="1152" fromTop="14" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="2355" fromTop="23" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="2655" fromTop="20" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="3175" fromTop="27" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml" caret="4135" fromTop="14" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/d:ViewModels/f:MainViewModel.cs" caret="4464" fromTop="15" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="570" fromTop="9" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="776" fromTop="14" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1110" fromTop="13" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1300" fromTop="17" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="1683" fromTop="14" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="2370" fromTop="15" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="3178" fromTop="13" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="3619" fromTop="25" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="3992" fromTop="22" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="1610" fromTop="32" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="1599" fromTop="24" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:MainPage.xaml.cs" caret="1274" fromTop="16" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:DeletePage.xaml.cs" caret="1696" fromTop="17" />
+      <File id="A50B27FE-9FBD-420E-82C2-CE7FFD34546A/f:New Task.xaml.cs" caret="3081" fromTop="27" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -69,8 +71,8 @@
     <ItemStatistics item="Default">
       <Item value="ApplicationTitle" priority="0" />
       <Item value="ToCreateAPage" priority="0" />
-      <Item value="App`0" priority="7" />
-      <Item value="new" priority="18" />
+      <Item value="App`0" priority="8" />
+      <Item value="new" priority="23" />
       <Item value="ItemViewModel" priority="0" />
       <Item value="LineOne" priority="0" />
       <Item value="LineTwo" priority="0" />
@@ -78,24 +80,24 @@
       <Item value="TaskDetails" priority="1" />
       <Item value="DateTime`0" priority="2" />
       <Item value="startDate" priority="0" />
-      <Item value="public" priority="4" />
+      <Item value="public" priority="8" />
       <Item value="SerializibleItem`0" priority="0" />
       <Item value="ObservableCollection" priority="5" />
-      <Item value="ItemViewModel`0" priority="5" />
-      <Item value="var" priority="14" />
+      <Item value="ItemViewModel`0" priority="6" />
+      <Item value="var" priority="15" />
       <Item value="is" priority="0" />
       <Item value="Items" priority="0" />
       <Item value="Profiles" priority="0" />
       <Item value="items" priority="0" />
-      <Item value="string" priority="4" />
+      <Item value="string" priority="15" />
       <Item value="Names" priority="6" />
       <Item value="ItemNameViewModel" priority="2" />
       <Item value="PersonName" priority="3" />
-      <Item value="this" priority="2" />
+      <Item value="this" priority="3" />
       <Item value="ObservableCollection&lt;ItemNameViewModel&gt;" priority="0" />
       <Item value="abstract" priority="0" />
       <Item value="interface" priority="0" />
-      <Item value="MainViewModel`0" priority="14" />
+      <Item value="MainViewModel`0" priority="15" />
       <Item value="ISerializeViewModel`0" priority="0" />
       <Item value="typeof" priority="0" />
       <Item value="System" priority="2" />
@@ -108,14 +110,14 @@
       <Item value="store" priority="0" />
       <Item value="using" priority="0" />
       <Item value="prop" priority="3" />
-      <Item value="ListBox`0" priority="0" />
+      <Item value="ListBox`0" priority="1" />
       <Item value="Task`0" priority="2" />
-      <Item value="String`0" priority="2" />
+      <Item value="String`0" priority="3" />
       <Item value="Guid`0" priority="1" />
-      <Item value="List" priority="4" />
+      <Item value="List" priority="7" />
       <Item value="List&lt;Profile&gt;" priority="0" />
-      <Item value="foreach" priority="5" />
-      <Item value="Tasks" priority="2" />
+      <Item value="foreach" priority="7" />
+      <Item value="Tasks" priority="4" />
       <Item value="Profile`0" priority="5" />
       <Item value="Profile" priority="0" />
       <Item value="Id" priority="10" />
@@ -126,14 +128,14 @@
       <Item value="List&lt;Task&gt;" priority="0" />
       <Item value="Task" priority="0" />
       <Item value="Description" priority="0" />
-      <Item value="task" priority="3" />
+      <Item value="task" priority="7" />
       <Item value="tasks" priority="0" />
       <Item value="taskModels" priority="0" />
       <Item value="profiles" priority="4" />
       <Item value="profile" priority="3" />
       <Item value="viewModel" priority="2" />
-      <Item value="return" priority="1" />
-      <Item value="static" priority="1" />
+      <Item value="return" priority="3" />
+      <Item value="static" priority="2" />
       <Item value="ContextStaticAttribute`0" priority="0" />
       <Item value="TaskName" priority="0" />
       <Item value="tasklistVM" priority="0" />
@@ -144,7 +146,7 @@
       <Item value="namesVM" priority="3" />
       <Item value="nameVM" priority="0" />
       <Item value="IsDataLoaded" priority="0" />
-      <Item value="true" priority="0" />
+      <Item value="true" priority="1" />
       <Item value="model" priority="4" />
       <Item value="savedModel" priority="1" />
       <Item value="else" priority="0" />
@@ -154,41 +156,64 @@
       <Item value="IsolatedStorageSettings`0" priority="0" />
       <Item value="false" priority="0" />
       <Item value="switch" priority="1" />
-      <Item value="if" priority="2" />
+      <Item value="if" priority="8" />
       <Item value="in" priority="0" />
       <Item value="DataContext" priority="1" />
-      <Item value="CheckBox`0" priority="3" />
+      <Item value="CheckBox`0" priority="5" />
       <Item value="checkBox" priority="0" />
       <Item value="EnterNameBox" priority="0" />
       <Item value="EnterdetailsBox" priority="0" />
-      <Item value="private" priority="1" />
+      <Item value="private" priority="9" />
       <Item value="checkedName" priority="3" />
-      <Item value="box" priority="0" />
-      <Item value="int" priority="0" />
-      <Item value="break" priority="2" />
+      <Item value="box" priority="5" />
+      <Item value="int" priority="6" />
+      <Item value="break" priority="3" />
       <Item value="case" priority="1" />
       <Item value="default" priority="0" />
-      <Item value="null" priority="0" />
-      <Item value="throw" priority="0" />
-      <Item value="taskName" priority="0" />
+      <Item value="null" priority="3" />
+      <Item value="throw" priority="1" />
+      <Item value="taskName" priority="2" />
       <Item value="taskDet" priority="0" />
       <Item value="id" priority="0" />
       <Item value="for" priority="0" />
       <Item value="s" priority="0" />
+      <Item value="NotifyPropertyChanged`0" priority="0" />
+      <Item value="Category" priority="3" />
+      <Item value="category" priority="2" />
+      <Item value="sender" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="KeyValuePair" priority="2" />
+      <Item value="do" priority="0" />
+      <Item value="personId" priority="4" />
+      <Item value="Int32`0" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="errorIndicator" priority="0" />
+      <Item value="ArgumentException" priority="0" />
+      <Item value="KeyValuePair&lt;int,string&gt;" priority="1" />
+      <Item value="checkedTasks" priority="6" />
+      <Item value="List&lt;KeyValuePair&lt;int,string&gt;&gt;" priority="0" />
+      <Item value="chekedTask" priority="0" />
+      <Item value="modelToChange" priority="1" />
+      <Item value="pair" priority="2" />
+      <Item value="void" priority="1" />
+      <Item value="cancel" priority="1" />
+      <Item value="value" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@IOTS_People.App">
-      <Item value="ViewModel" priority="7" />
+      <Item value="ViewModel" priority="8" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:IOTS_People.MainViewModel">
       <Item value="Items" priority="0" />
       <Item value="Names" priority="7" />
-      <Item value="Tasks" priority="4" />
-      <Item value="SaveData`0" priority="1" />
+      <Item value="Tasks" priority="6" />
+      <Item value="SaveData`0" priority="2" />
       <Item value="IsDataLoaded" priority="0" />
+      <Item value="RemoveTaskItem`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
       <Item value="Add`0" priority="7" />
       <Item value="Count" priority="2" />
+      <Item value="Remove`0" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.DateTime">
       <Item value="Date" priority="0" />
@@ -202,10 +227,12 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:IOTS_People.ItemViewModel">
       <Item value="TaskDetails" priority="0" />
-      <Item value="TaskName" priority="0" />
+      <Item value="TaskName" priority="1" />
+      <Item value="Category" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
-      <Item value="Add`0" priority="1" />
+      <Item value="Add`0" priority="2" />
+      <Item value="Remove`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@IOTS_People.Profile">
       <Item value="CreateFromViewModel`0" priority="0" />
@@ -218,6 +245,7 @@
     <ItemStatistics item="Qualified:IOTS_People.Task">
       <Item value="Description" priority="0" />
       <Item value="Name" priority="0" />
+      <Item value="Category" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@IOTS_People.MainViewModel">
       <Item value="CreateViewModel`0" priority="0" />
@@ -226,7 +254,7 @@
       <Item value="ApplicationSettings" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.IO.IsolatedStorage.IsolatedStorageSettings">
-      <Item value="Remove`0" priority="0" />
+      <Item value="Remove`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
       <Item value="Text" priority="1" />
@@ -235,8 +263,16 @@
       <Item value="Empty" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Controls.CheckBox">
-      <Item value="Name" priority="0" />
-      <Item value="Content" priority="0" />
+      <Item value="Name" priority="2" />
+      <Item value="Content" priority="1" />
+      <Item value="Parent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="1" />
+      <Item value="Value" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

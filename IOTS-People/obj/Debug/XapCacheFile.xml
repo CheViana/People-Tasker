@@ -1,9 +1,9 @@
-﻿<xapCache source="D:\git\IOTS-People\IOTS-People\Bin\Debug\IOTS_People.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="16.09.2011 23:29:22">
+﻿<xapCache source="D:\git\IOTS-People\IOTS-People\Bin\Debug\IOTS_People.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="22.09.2011 15:31:46">
   <file source="D:\git\IOTS-People\IOTS-People\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="14.09.2011 19:04:18" />
-  <file source="D:\git\IOTS-People\IOTS-People\Background.png" archivePath="Background.png" lastWriteTime="14.09.2011 19:04:18" />
-  <file source="D:\git\IOTS-People\IOTS-People\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="14.09.2011 19:04:18" />
-  <file source="D:\git\IOTS-People\IOTS-People\obj\Debug\IOTS-People.dll" archivePath="IOTS-People.dll" lastWriteTime="16.09.2011 23:29:21" />
+  <file source="D:\git\IOTS-People\IOTS-People\Background.png" archivePath="Background.png" lastWriteTime="17.09.2011 0:01:41" />
+  <file source="D:\git\IOTS-People\IOTS-People\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="17.09.2011 0:02:59" />
+  <file source="D:\git\IOTS-People\IOTS-People\obj\Debug\IOTS-People.dll" archivePath="IOTS-People.dll" lastWriteTime="22.09.2011 15:31:45" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.0\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="20.07.2011 0:31:06" />
   <file source="D:\git\IOTS-People\IOTS-People\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="14.09.2011 19:04:18" />
-  <file source="D:\git\IOTS-People\IOTS-People\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="14.09.2011 19:04:46" />
+  <file source="D:\git\IOTS-People\IOTS-People\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="20.09.2011 16:37:45" />
 </xapCache>

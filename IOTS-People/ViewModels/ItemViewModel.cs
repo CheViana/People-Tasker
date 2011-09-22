@@ -13,11 +13,14 @@ using System.Windows.Shapes;
 
 namespace IOTS_People
 {
+    /// <summary>
+    /// Represents a name, details and category of task to be used in data binding
+    /// </summary>
     public class ItemViewModel : INotifyPropertyChanged
     {
         private string taskName;
         /// <summary>
-        /// Sample ViewModel property; this property is used in the view to display its value using a Binding.
+        /// Name property; this property is used in the view to display its value using a Binding.
         /// </summary>
         /// <returns></returns>
         public string TaskName
@@ -35,7 +38,19 @@ namespace IOTS_People
                 }
             }
         }
-
+        private string category;
+        public string Category
+        {
+            get { return category; }
+            set 
+            {
+                if (value != category)
+                {
+                    category = value;
+                    NotifyPropertyChanged("Category");
+                }
+            }
+        }
         private string taskDetails;
         /// <summary>
         /// Sample ViewModel property; this property is used in the view to display its value using a Binding.
@@ -56,7 +71,6 @@ namespace IOTS_People
                 }
             }
         }
-
         public event PropertyChangedEventHandler PropertyChanged;
         private void NotifyPropertyChanged(String propertyName)
         {

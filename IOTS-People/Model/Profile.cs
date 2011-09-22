@@ -14,29 +14,17 @@ using IOTS_People.ViewModels;
 
 namespace IOTS_People
 {
+    /// <summary>
+    /// objects of this class are used to save and load data in this application.
+    ///  Profile per person consists of person's name, id and his tasks.
+    /// </summary>
     public class Profile
     {
         public int Id { get; set; }
         public String Name { get; set; }
         public List<Task> Tasks { get; set; }
 
-        public static List<Profile> CreateListOfProfiles (MainViewModel viewModel)
-        {
-            List<Profile> profiles = new List<Profile>();
-            for (int index = 0; index < viewModel.Tasks.Count; index++)
-            {
-                var taskList = viewModel.Tasks[index];
-                List<Task> taskModels = new List<Task>();
-                foreach (var task in taskList)
-                {
-                    Task taskModel = new Task() { Description = task.TaskDetails,  Name = task.TaskName };
-                    taskModels.Add(taskModel);
-                }
-                Profile profile = new Profile() { Id = viewModel.Names[index].Id, Name = viewModel.Names[index].PersonName, Tasks = taskModels };
-                profiles.Add(profile);
-            }
-            return profiles;
-        }
+        
         
     }
 }

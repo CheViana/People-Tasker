@@ -19,13 +19,16 @@ namespace IOTS_People
         public MainPage()
         {
             InitializeComponent();
-
-            // Set the data context of the listbox control to the sample data
+            // making DataContext
             DataContext = App.ViewModel;
             this.Loaded += MainPage_Loaded;
         }
 
-        // Load data for the ViewModel Items
+        /// <summary>
+        /// Load data in MainViewModel item and save it to DataContext
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void MainPage_Loaded(object sender, RoutedEventArgs e)
         {
             if (!App.ViewModel.IsDataLoaded)
@@ -35,13 +38,17 @@ namespace IOTS_People
             }
             
         }
+
+        /// <summary>
+        /// Executes when leaving the page - saving everything to isolated storage (in SaveData)
+        /// </summary>
+        /// <param name="e"></param>
         protected override void OnNavigatedFrom(System.Windows.Navigation.NavigationEventArgs e)
         {
             base.OnNavigatedFrom(e);
-            var modelToSave = (MainViewModel) App.ViewModel;
-            modelToSave.SaveData();
+            var modelToChange = (MainViewModel)App.ViewModel;
+            modelToChange.SaveData();
+           
         }
-
-       
     }
 }
